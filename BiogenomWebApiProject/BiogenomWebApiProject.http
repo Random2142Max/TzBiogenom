@@ -1,0 +1,6 @@
+@BiogenomWebApiProject_HostAddress = http://localhost:5296
+
+# GET {{BiogenomWebApiProject_HostAddress}}/weatherforecast/
+# Accept: application/json
+
+# ###
